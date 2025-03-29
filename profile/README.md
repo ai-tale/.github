@@ -50,9 +50,9 @@ Here's a glimpse into the magical worlds created by AI Tale:
 
 | Story Title | Description | Preview |
 |-------------|-------------|---------|
-| The Moonlight Fox | A tale of friendship between a lonely fox and the moon | [Read Story](https://aitale.tech/story/moonlight-fox) |
-| Captain Bubbles and the Sea Adventure | An underwater journey with Captain Bubbles and his sea friends | [Read Story](https://aitale.tech/story/captain-bubbles) |
-| The Teeny Tiny Dragon | A heartwarming story about a small dragon with big dreams | [Read Story](https://aitale.tech/story/teeny-dragon) |
+| The Moonlight Fox | A tale of friendship between a lonely fox and the moon | [Read Story](https://www.aitale.tech/story/67e77b682b7349e3a5b907bc) |
+| Captain Bubbles and the Sea Adventure | An underwater journey with Captain Bubbles and his sea friends | [Read Story](https://www.aitale.tech/story/67e77bd42b7349e3a5b907c2) |
+| The Teeny Tiny Dragon | A heartwarming story about a small dragon with big dreams | [Read Story](https://www.aitale.tech/story/67e77cc92b7349e3a5b907c8) |
 
 ## 🤝 Contributing
 
