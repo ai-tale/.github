@@ -1,13 +1,13 @@
 # AI Tale: Neural Story Synthesis
 
-![GitHub stars](https://img.shields.io/github/stars/ai-tale/core?style=social)
+[![GitHub stars](https://img.shields.io/github/stars/ai-tale/core?style=social)](https://github.com/ai-tale/core)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Status](https://img.shields.io/badge/status-active-success)
 ![Version](https://img.shields.io/badge/version-1.2.0-brightgreen)
 ![Release Date](https://img.shields.io/badge/release%20date-Mar%202025-informational)
 [![Website](https://img.shields.io/badge/website-aitale.tech-orange)](https://aitale.tech)
 ![Made with love](https://img.shields.io/badge/made%20with-❤️-red)
-![Powered by](https://img.shields.io/badge/powered%20by-DreamerAI-pink)
+[![Powered by](https://img.shields.io/badge/powered%20by-DreamerAI-pink)](https://aitale.me/)
 
 > *Transforming imagination into beautiful narratives through the power of AI*
 
